@@ -1,17 +1,17 @@
-# 👋 Привет, меня зовут Евгений на данный момент Я automation qa engineer, стремлюсь к SDET
+# 👋 Hi, my name is Jo. I'm currently an automation QA engineer, aiming for SDET.
 
-Я создаю надежные фреймворки для автоматизации тестирования и решения для обеспечения качества.
-Я увлечен внедрением тестирования в ранние этапы разработки и интеграцией обеспечения качества в конвейеры CI/CD.
+I create robust test automation frameworks and quality assurance solutions.
+I'm passionate about implementing testing early in development and integrating quality assurance into CI/CD pipelines.
 
-> В настоящее время специализируюсь на:
->   **Playwright + Java/Python/C#**,
->   **Selenium + Java/Python/C#**,
->   **Selenide + Java**,
->   **API-тестировании**,
->   **Тестовой инфраструктуре как код**
+> I currently specialize in:
+> Playwright + Java/Python/C#,
+> Selenium + Java/Python/C#,
+> Selenide + Java,
+> API testing,
+> Test infrastructure as code
 
-## 🚀 Чем я занимаюсь
-- Разработка масштабируемых фреймворков автоматизации с нуля
-- Интеграция автоматизированных тестов в конвейеры CI/CD (GitHub Actions, GitLab CI)
-- Проведение тестирования API, UI и производительности
-- Создание внутренних инструментов для повышения эффективности тестирования
+## 🚀 What I do
+- Developing scalable automation frameworks from scratch
+- Integrating automated tests into CI/CD pipelines (GitHub Actions, GitLab CI)
+- Conducting API, UI, and performance testing
+- Creating internal tools to improve testing efficiency
