@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Евгений на данный момент я automation qa engineer, Я стремлюсь к SDET
 
-<!--
-**Jshellz/Jshellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю надежные фреймворки для автоматизации тестирования и решения для обеспечения качества.
+Я увлечен внедрением тестирования в ранние этапы разработки и интеграцией обеспечения качества в конвейеры CI/CD.
 
-Here are some ideas to get you started:
+> В настоящее время специализируюсь на:
+>   **Playwright + Java/Python/C#**,
+>   **Selenium + Java/Python/C#**,
+>   **Selenide + Java**,
+>   **API-тестировании**,
+>   **Тестовой инфраструктуре как код**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Чем я занимаюсь
+- Разработка масштабируемых фреймворков автоматизации с нуля
+- Интеграция автоматизированных тестов в конвейеры CI/CD (GitHub Actions, GitLab CI)
+- Проведение тестирования API, UI и производительности
+- Создание внутренних инструментов для повышения эффективности тестирования
