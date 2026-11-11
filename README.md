@@ -1,2 +1,2 @@
-# 👋 Hi, my name is Jo
+# 👋 Hi, my name is Jone
 
